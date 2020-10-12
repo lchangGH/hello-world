@@ -1,1 +1,2 @@
 New file in Branch 4
+With a new line 
